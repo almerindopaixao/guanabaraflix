@@ -1,188 +1,333 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "id": 1,
+      "titulo": "Lógica de Programação",
       "cor": "#6BD1FF",
+      "descricao": "Curso de Lógica de Programação",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
-      "videos": [
-        {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-        },
-        {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-        },
-        {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-        },
-        {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
+        "text": "Curso de Lógica de Programação",
+        "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV"
+      }
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "id": 2,
+      "titulo": "HTML5 E CSS3",
+      "cor": "#113269",
+      "descricao": "Curso de HTML5 Completo e GRÁTIS",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
+        "text": "Curso de HTML5 Completo e GRÁTIS",
+        "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"
+      }
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "id": 3,
+      "titulo": "JavaScript",
+      "cor": "#FED303",
+      "descricao": "Curso Grátis de JavaScript e ECMAScript para Iniciantes",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
+        "text": "Curso Grátis de JavaScript e ECMAScript para Iniciantes",
+        "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1"
+      }
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "id": 4,
+      "titulo": "PHP",
+      "cor": "#253E90",
+      "descricao": "Curso de PHP para Iniciantes",
       "link_extra": {
-        "text": "Melhores Filmes para você assistir"
-      },
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
+        "text": "Curso de PHP para Iniciantes",
+        "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k"
+      }
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "id": 5,
+      "titulo": "WordPress",
+      "cor": "#FF3131",
+      "descricao": "Curso de WordPress: criando um site do zero",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
+        "text": "Curso de WordPress: criando um site do zero",
+        "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "O novo site do Curso em Vídeo",
+      "url": "https://youtu.be/e6XWFkzTg3Y"
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
-      ]
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=2&t=38s"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Primeiro Algoritmo - Curso de Algoritmos #02 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=M2Af7gkbbro&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=2"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Comando de Entrada e Operadores - Curso de Algoritmos #03 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=RDrfZ-7WE8c&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=3"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Operadores Lógicos e Relacionais - Curso de Algoritmos #04 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=Ig4QZNpVZYs&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=5"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Introdução ao Scratch - Curso de Algoritmos #05 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=GrPkuk1ezyo&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=6"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Exercícios de Algoritmo Resolvidos - Curso de Algoritmos #06 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=v2nCgGSVCeE&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=7"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Estruturas Condicionais 1 - Curso de Algoritmos #07 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=_g05aHdBAEY&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=8"
+    },
+    {
+      "id": 9,
+      "categoriaId": 1,
+      "titulo": "Estruturas Condicionais 2 - Curso de Algoritmos #08 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=7gGFHzqh4d8&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=9"
+    },
+    {
+      "id": 10,
+      "categoriaId": 1,
+      "titulo": "Estruturas de Repetição 1 - Curso de Algoritmos #09 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=U5PnCt58Q68&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=10"
+    },
+    {
+      "id": 11,
+      "categoriaId": 1,
+      "titulo": "Estruturas de Repetição 2 - Curso de Algoritmos #10 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=fP49L1i_-HU&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=11"
+    },
+    {
+      "id": 12,
+      "categoriaId": 1,
+      "titulo": "Estruturas de Repetição 3 - Curso de Algoritmos #11 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=WJQz20i7CyI&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=12"
+    },
+    {
+      "id": 13,
+      "categoriaId": 1,
+      "titulo": "Procedimentos - Curso de Algoritmos #12 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=KoNehy7rn8U&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=13"
+    },
+    {
+      "id": 14,
+      "categoriaId": 1,
+      "titulo": "Funções - Curso de Algoritmos #13 - by Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=-nNx7e8GzHQ&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=14"
+    },
+    {
+      "id": 15,
+      "categoriaId": 1,
+      "titulo": "Vetores - Curso de Algoritmos #14 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=j9473xQ39vY&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=15"
+    },
+    {
+      "id": 16,
+      "categoriaId": 1,
+      "titulo": "Matrizes - Curso de Algoritmos #15 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=hkE9WrjpAAk&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=16"
+    },
+    {
+      "id": 17,
+      "categoriaId": 2,
+      "titulo": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=2&t=0s"
+    },
+    {
+      "id": 18,
+      "categoriaId": 2,
+      "titulo": "Curso HTML5 - 01 - História da Internet - by Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=rsFCVjr5yxc&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=2"
+    },
+    {
+      "id": 19,
+      "categoriaId": 2,
+      "titulo": "Curso de HTML5 - 02 - História da HTML - by Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=NSmapCNcSyI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=3"
+    },
+    {
+      "id": 20,
+      "categoriaId": 2,
+      "titulo": "Curso de HTML5 - 03 - Como Funciona a Internet - by Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=LMfeZ6XD0No&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=4"
+    },
+    {
+      "id": 21,
+      "categoriaId": 2,
+      "titulo": "Curso de HTML5 - 04 - Primeiro Exemplo em HTML5 - by Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=yCSSsBNBzso&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=6"
+    },
+    {
+      "id": 22,
+      "categoriaId": 3,
+      "titulo": "Curso de JavaScript - Teaser",
+      "url": "https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=1"
+    },
+    {
+      "id": 23,
+      "categoriaId": 3,
+      "titulo": "Curso Grátis de JavaScript Moderno",
+      "url": "https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=2"
+    },
+    {
+      "id": 24,
+      "categoriaId": 3,
+      "titulo": "Módulo A - Conhecendo o JavaScript",
+      "url": "https://www.youtube.com/watch?v=uzEhd3Lugik&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=3"
+    },
+    {
+      "id": 25,
+      "categoriaId": 3,
+      "titulo": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+      "url": "https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=4"
+    },
+    {
+      "id": 26,
+      "categoriaId": 3,
+      "titulo": "JavaScript: como chegamos até aqui? - Curso JavaScript #02",
+      "url": "https://www.youtube.com/watch?v=rUTKomc2gG8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5"
+    },
+    {
+      "id": 27,
+      "categoriaId": 3,
+      "titulo": "Dando os primeiros passos - Curso JavaScript #03",
+      "url": "https://www.youtube.com/watch?v=FdePtO5JSd0&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=6"
+    }
+    ,
+    {
+      "id": 28,
+      "categoriaId": 3,
+      "titulo": "Criando o seu primeiro script - Curso JavaScript #04",
+      "url": "https://www.youtube.com/watch?v=OmmJBfcMJA8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=7"
+    },
+    {
+      "id": 29,
+      "categoriaId": 4,
+      "titulo": "História do PHP - Curso PHP Iniciante #01 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k"
+    },
+    {
+      "id": 30,
+      "categoriaId": 4,
+      "titulo": "Como funciona o PHP - Curso PHP Iniciante #02 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=Eup6utTPe2U&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=2"
+    },
+    {
+      "id": 31,
+      "categoriaId": 4,
+      "titulo": "Como Instalar o PHP - Curso de PHP Iniciante #03 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=3ltZBbKACh4&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=3"
+    },
+    {
+      "id": 32,
+      "categoriaId": 4,
+      "titulo": "Variáveis em PHP - Curso PHP Iniciante #04 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=DGZS9KrlrjI&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=5"
+    },
+    {
+      "id": 33,
+      "categoriaId": 4,
+      "titulo": "Operadores Aritméticos - Curso PHP Iniciante #05 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=fCZdbl9-qkw&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=6"
+    },
+    {
+      "id": 34,
+      "categoriaId": 4,
+      "titulo": "Operadores de Atribuição - Curso PHP Iniciante #06 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=NuBt0B_GeEo&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=7"
+    },
+    {
+      "id": 35,
+      "categoriaId": 4,
+      "titulo": "Operadores Relacionais - Curso PHP Iniciante #07 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=YrmPk8zL9Qw&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=8"
+    },
+    {
+      "id": 36,
+      "categoriaId": 4,
+      "titulo": "Integração HTML5 + PHP - Curso PHP Iniciante #08 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=gvZfP2iBkw4&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=9"
+    },
+    {
+      "id": 37,
+      "categoriaId": 4,
+      "titulo": "Estrutura Condicional if - Curso de PHP Iniciante #09 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=qAisUeI5oKE&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=10"
+    },
+    {
+      "id": 38,
+      "categoriaId": 5,
+      "titulo": "TRAILER - Curso WordPress Profissional",
+      "url": "https://www.youtube.com/watch?v=JPR4OK4c35Q&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=2&t=0s"
+    },
+    {
+      "id": 39,
+      "categoriaId": 5,
+      "titulo": "Como vai ser o site que criaremos com WordPress? - Curso WordPress #00",
+      "url": "https://www.youtube.com/watch?v=vkN1FAIoRic&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=2"
+    },
+    {
+      "id": 40,
+      "categoriaId": 5,
+      "titulo": "Como vai ser o site que criaremos com WordPress? - Curso WordPress #00",
+      "url": "https://www.youtube.com/watch?v=vkN1FAIoRic&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=2"
+    },
+    {
+      "id": 41,
+      "categoriaId": 5,
+      "titulo": "Evolução do WordPress (parte 1) - Curso WordPress #01a",
+      "url": "https://www.youtube.com/watch?v=BDUeeEaxMEg&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=3"
+    },
+    {
+      "id": 42,
+      "categoriaId": 5,
+      "titulo": "Evolução do WordPress (parte 2) - Curso WordPress #01b",
+      "url": "https://www.youtube.com/watch?v=t4sLUmejkUU&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=4"
+    },
+    {
+      "id": 43,
+      "categoriaId": 5,
+      "titulo": "Mitos e verdades sobre o WordPress - Curso WordPress #02",
+      "url": "https://www.youtube.com/watch?v=ZDdHbVHaxCU&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=5"
+    },
+    {
+      "id": 44,
+      "categoriaId": 5,
+      "titulo": "Ferramentas úteis para desenvolvedores - Curso WordPress #03",
+      "url": "https://www.youtube.com/watch?v=kNABhDkuZ0o&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=6"
+    },
+    {
+      "id": 45,
+      "categoriaId": 5,
+      "titulo": "Preparando o ambiente para o WordPress - Curso WordPress #04",
+      "url": "https://www.youtube.com/watch?v=ACtmaODX4l8&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=7"
+    },
+    {
+      "id": 46,
+      "categoriaId": 5,
+      "titulo": "Instalando o WordPress no seu PC - Curso WordPress #05",
+      "url": "https://www.youtube.com/watch?v=zTRncHD5Me0&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=8"
     }
   ]
 }
