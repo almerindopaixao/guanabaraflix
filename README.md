@@ -18,5 +18,9 @@ npm start
 
 ## Como acessar o site do projeto?
 
+[Clique neste link para acessar o site do projeto](https://guanabaraflix.vercel.app/)
+
+[Clique neste link para acessar a API do projeto](https://guanabaraflix.herokuapp.com/categorias)
+
 ## License/Licença do Projeto
 [MIT License](./LICENSE)
