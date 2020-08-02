@@ -3,7 +3,7 @@
 
 ![Logo](./src/assets/img/Logo.png)
 
-![Preview](./src/aassets/img/sitePreview.png)
+![Preview](./src/assets/img/sitePreview.png)
 
 ## Objetivo
 
