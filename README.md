@@ -3,6 +3,8 @@
 
 ![Logo](./src/assets/img/Logo.png)
 
+![Preview](./src/aassets/img/sitePreview.png)
+
 ## Objetivo
 
 :computer: Esse projeto tem como objetivo compilar as principais aulas do [Curso em Video](https://www.youtube.com/c/CursoemV%C3%ADdeo/featured) para que os usuários possam ter um direcionamento sobre o estudo da programação, lembrando que as primeiras categorias são direcionadas ao desenvolvimento front-end
