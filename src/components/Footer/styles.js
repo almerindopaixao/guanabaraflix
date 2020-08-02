@@ -16,4 +16,11 @@ const FooterBase = styled.footer`
   }
 `;
 
+FooterBase.Anchor = styled.a`
+  color: var(--primary);
+  &:hover {
+    opacity: 0.5;
+  }
+`;
+
 export default FooterBase;

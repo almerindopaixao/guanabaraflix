@@ -33,7 +33,7 @@ export default function Home() {
               <BannerMain
                 videoTitle={dados[0].videos[0].titulo}
                 url={dados[0].videos[0].url}
-                videoDescription="O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"
+                videoDescription="O novo site do CursoemVideo está em testes e já conta com todos os cursos cadastrado, acompanhamento das aulas, avaliação final e emissão de certificados aceitos em território nacional!!"
               />
 
               <Carousel ignoreFirstVideo category={dados[0]} />
