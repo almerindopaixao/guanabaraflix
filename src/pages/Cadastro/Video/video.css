@@ -1,0 +1,31 @@
+.botoes {
+  display: grid;
+  grid-template-columns: 180px 180px;
+  grid-column-gap: 40px;
+}
+
+@media(max-width: 860px) {
+  .botoes {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.formulario {
+  padding: 50px 0;
+}
+
+.titulo {
+  text-align: center;
+}
+
+.ir-home {
+  margin-bottom: 40px;
+  font-size: 24px;
+}
+
+@media(max-width: 800px) {
+  .ir-home {
+    font-size: 18px;
+  }
+}
