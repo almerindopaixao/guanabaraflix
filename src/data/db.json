@@ -22,32 +22,32 @@
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "descricao": "Cursos de Data Science na Alura",
+      "titulo": "JavaScript",
+      "cor": "#FED303",
+      "descricao": "Curso Grátis de JavaScript e ECMAScript para Iniciantes",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
+        "text": "Curso Grátis de JavaScript e ECMAScript para Iniciantes",
+        "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1"
       }
     },
     {
       "id": 4,
-      "titulo": "Filmes",
-      "cor": "orange",
-      "descricao": "Filmes receomendados pelo devSoutinho",
+      "titulo": "PHP",
+      "cor": "#253E90",
+      "descricao": "Curso de PHP para Iniciantes",
       "link_extra": {
-        "text": "Filmes receomendados pelo devSoutinho",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
+        "text": "Curso de PHP para Iniciantes",
+        "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k"
       }
     },
     {
       "id": 5,
-      "titulo": "Games",
-      "cor": "red",
-      "descricao": "Formação de Jogos na Alura",
+      "titulo": "WordPress",
+      "cor": "#FF3131",
+      "descricao": "Curso de WordPress: criando um site do zero",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Curso de WordPress: criando um site do zero",
+        "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2"
       }
     }
   ],
@@ -180,21 +180,100 @@
     },
     {
       "id": 22,
-      "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+      "categoriaId": 3,
+      "titulo": "Curso de JavaScript - Teaser",
+      "url": "https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=1"
     },
     {
       "id": 23,
-      "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      "categoriaId": 3,
+      "titulo": "Curso Grátis de JavaScript Moderno",
+      "url": "https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=2"
     },
     {
       "id": 24,
-      "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "categoriaId": 3,
+      "titulo": "Módulo A - Conhecendo o JavaScript",
+      "url": "https://www.youtube.com/watch?v=uzEhd3Lugik&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=3"
+    },
+    {
+      "id": 25,
+      "categoriaId": 3,
+      "titulo": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+      "url": "https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=4"
+    },
+    {
+      "id": 26,
+      "categoriaId": 3,
+      "titulo": "JavaScript: como chegamos até aqui? - Curso JavaScript #02",
+      "url": "https://www.youtube.com/watch?v=rUTKomc2gG8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5"
+    },
+    {
+      "id": 27,
+      "categoriaId": 3,
+      "titulo": "Dando os primeiros passos - Curso JavaScript #03",
+      "url": "https://www.youtube.com/watch?v=FdePtO5JSd0&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=6"
+    }
+    ,
+    {
+      "id": 28,
+      "categoriaId": 3,
+      "titulo": "Criando o seu primeiro script - Curso JavaScript #04",
+      "url": "https://www.youtube.com/watch?v=OmmJBfcMJA8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=7"
+    },
+    {
+      "id": 29,
+      "categoriaId": 4,
+      "titulo": "História do PHP - Curso PHP Iniciante #01 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k"
+    },
+    {
+      "id": 30,
+      "categoriaId": 4,
+      "titulo": "Como funciona o PHP - Curso PHP Iniciante #02 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=Eup6utTPe2U&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=2"
+    },
+    {
+      "id": 31,
+      "categoriaId": 4,
+      "titulo": "Como Instalar o PHP - Curso de PHP Iniciante #03 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=3ltZBbKACh4&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=3"
+    },
+    {
+      "id": 32,
+      "categoriaId": 4,
+      "titulo": "Variáveis em PHP - Curso PHP Iniciante #04 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=DGZS9KrlrjI&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=5"
+    },
+    {
+      "id": 33,
+      "categoriaId": 4,
+      "titulo": "Operadores Aritméticos - Curso PHP Iniciante #05 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=fCZdbl9-qkw&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=6"
+    },
+    {
+      "id": 34,
+      "categoriaId": 4,
+      "titulo": "Operadores de Atribuição - Curso PHP Iniciante #06 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=NuBt0B_GeEo&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=7"
+    },
+    {
+      "id": 35,
+      "categoriaId": 4,
+      "titulo": "Operadores Relacionais - Curso PHP Iniciante #07 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=YrmPk8zL9Qw&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=8"
+    },
+    {
+      "id": 36,
+      "categoriaId": 4,
+      "titulo": "Integração HTML5 + PHP - Curso PHP Iniciante #08 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=gvZfP2iBkw4&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=9"
+    },
+    {
+      "id": 37,
+      "categoriaId": 4,
+      "titulo": "Estrutura Condicional if - Curso de PHP Iniciante #09 - Gustavo Guanabara",
+      "url": "https://www.youtube.com/watch?v=qAisUeI5oKE&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=10"
     }
   ]
 }
